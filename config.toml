@@ -1,6 +1,6 @@
-baseURL = 'https://techblog.onpoint.vn/'
+baseURL = 'https://techblog.onpoint.vn/onpoint_blog/'
 languageCode = 'en-us'
-title = 'OnPoint Tech Blog'
+title = 'OnPoint Blog'
 theme = 'bookworm'
 
 # post pagination
