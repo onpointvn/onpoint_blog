@@ -13,7 +13,7 @@ Có rất nhiều chiến lược được nhiều nhà bán hàng chia sẻ v�
 
 Ví dụ như bạn sẽ rất hay nhận được rất nhiều lời nhắn, comment mời chào dịch vụ tăng follow trên Shopee với giá chỉ vài trăm đồng.
 
-![Nhiều dịch vụ bán follower Shopee ảo với giá rất rẻ nhưng liệu có thật sự hữu ích](/images/DichVuFollowerShopeeAo.jpg)]
+![Nhiều dịch vụ bán follower Shopee ảo với giá rất rẻ nhưng liệu có thật sự hữu ích](/images/DichVuFollowerShopeeAo.jpg)
 
 Trong bài viết này, chúng ta sẽ cùng bàn luận đến một chiến lược hay thủ thuật mà rất nhiều nhà bán hàng được mời chào sử dụng trong quá trình kinh doanh trên sàn.
 
