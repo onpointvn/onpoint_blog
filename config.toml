@@ -1,4 +1,4 @@
-baseURL = 'https://techblog.onpoint.vn/onpoint_blog/'
+baseURL = 'https://ecomblog.onpoint.vn/'
 languageCode = 'en-us'
 title = 'OnPoint Blog'
 theme = 'bookworm'
