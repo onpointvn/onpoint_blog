@@ -19,6 +19,8 @@ Trong bài viết này, chúng ta sẽ cùng bàn luận đến một chiến l�
 
 Chúng ta đang đề cấp đến việc tăng lượng follow ảo trên Shopee hay Mua lượt theo dõi trên sàn Shopee.
 
+{{< youtube 8gDYlbwMQg8 >}}
+
 ## Lợi ích của việc tăng follow gian hàng Shopee?
 
 Để đánh giá được liệu việc mua follow trên Shopee có thật sự hữu ích hay không, chúng ta cần biết được lý do tại sao chúng ta cần tăng lượt follow này.
