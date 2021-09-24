@@ -1,6 +1,6 @@
 ---
 title: "Bí quyết thu hút khách hàng với chi phí thấp nhất"
-date: 2021-09-25
+date: 2021-09-24
 tags: ["onpoint", "ecommerce"]
 author: Khoa Vo
 draft: false
