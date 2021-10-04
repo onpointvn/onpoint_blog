@@ -6,6 +6,7 @@ author: Khoa Vo
 draft: false
 image: "/images/6-cach-tang-follow-shopee.jpg"
 ---
+
 Làm sao tăng follow Shopee hay người theo dõi gian hàng là câu hỏi của rất nhiều nhà bán hàng.
 
 Bài viết này sẽ chia sẻ đến bạn 6 cách để tăng số lượng follow gian hàng trên Shopee hiệu quả nhất.
