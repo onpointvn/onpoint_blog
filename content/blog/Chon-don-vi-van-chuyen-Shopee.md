@@ -1,6 +1,6 @@
 ---
 title: "Tuyệt chiêu lựa chọn đơn vị vận chuyển bán hàng trên Shopee"
-date: 2021-10-07
+date: 2021-10-09
 tags: ["onpoint", "ecommerce","vận hành gian hàng"]
 author: Khoa Vo
 draft: false
