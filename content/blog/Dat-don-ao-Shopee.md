@@ -7,6 +7,7 @@ draft: false
 image: "/images/Dat-don-ao-Shopee.jpg"
 ---
 
+
 Dịch vụ đặt đơn ảo hay buff đơn ảo trên Shopee là một phương pháp được rất nhiều nhà bán hàng Shopee mới sử dụng để tạo lòng tin với khách hàng. Tuy nhiên phương pháp này đã được Shopee chính thức nghiêm cấm.
 
 {{< youtube POZOzO9v_hs>}}
