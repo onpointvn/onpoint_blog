@@ -5,7 +5,6 @@ tags: ["onpoint", "ecommerce","sao chép ảnh"]
 author: Khoa Vo
 draft: false
 image: "/images/Sao-chep-anh-san-pham-tren-Shopee.jpg"
-
 ---
 
 Hình ảnh sản phẩm bị sao chép là vấn đề rất nhiều nhà bán hàng gặp phải khi kinh doanh bán hàng trên Shopee. Bài viết này sẽ giúp bạn tránh những trường hợp trên.
