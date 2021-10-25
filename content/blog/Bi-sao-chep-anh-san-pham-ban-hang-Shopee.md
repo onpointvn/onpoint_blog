@@ -18,7 +18,7 @@ Trong quá trình tạo sản phẩm, hình ảnh đại diện sản phẩm là
 
 Tuy nhiên, trong trường hợp người bán không thể tự sản xuất được hình ảnh thường sẽ không có hình ảnh sản phẩm sẵn mà sẽ sử dụng hình ảnh sẵn có của nhà sản xuất hoặc sao chép của các gian hàng khác.
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Hinh-anh-san-pham-bi-sao-chep.jpg)
+![Hình ảnh sản phẩm bị sao chép](/images/Hinh-anh-san-pham-bi-sao-chep.jpg)
 
 Với những nhà bán hàng mới khi bắt đầu kinh doanh trên Shopee, việc chuẩn bị hình ảnh là một rào cản rất lớn vì vậy việc sao chép hình ảnh của các gian hàng lẫn nhau diễn ra rất phổ biến.
 
@@ -34,12 +34,11 @@ Sau đây là cơ chế sàn Shopee khuyến khích người bán thực hiện 
 
 Chèn watermark hay ảnh mờ có thông tin tên shop vào ảnh sản phẩm để tránh bị sao chép
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Chen-watermark-ten-shop-vao-anh-san-pham.png)
+![Chèn watermark tên shop vào ảnh sản phẩm](/images/Chen-watermark-ten-shop-vao-anh-san-pham.png)
 
 Thêm hình ảnh logo và ảnh sản phẩm khi bán hàng Shopee để tránh bị sao chép
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Anh-co-ten-shop-khong-bi-sao-chep.jpg)
-
+![Chèn tên shop vào ảnh sản phẩm](/images/Anh-co-ten-shop-khong-bi-sao-chep.jpg)
 
 
 Sau đó, bạn có thể chủ động báo với bộ phận hỗ trợ người bán của Shopee về các trường hợp vi phạm sao chép hình ảnh của bạn mà không được bạn cho phép. 
@@ -75,14 +74,13 @@ Việc không sao chép hình ảnh của các gian hàng khác cũng giúp bạ
 
 Các yếu tố ảnh bìa sản phẩm tốtMột ảnh bìa sản phẩm tốt cần có những tiêu chí sau:
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Quy-chuan-anh-chat-luong-tren-Shopee.png)
+![Quy chuẩn ảnh chất lượng trên Shopee](/images/Quy-chuan-anh-chat-luong-tren-Shopee.png)
 
 Nguồn: Shopee
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Chat-luong-anh-tot-tren-Shopee.png)
+![Chất lượng ảnh tốt trên Shopee](/images/Chat-luong-anh-tot-tren-Shopee.png)
 
 Nguồn: Shopee
-
 
 
 Bạn có thể ghi chú thêm về các đặc điểm nổi bật của sản phẩm, logo thương hiệu … tại các khu vực như:
@@ -93,31 +91,24 @@ Bạn có thể ghi chú thêm về các đặc điểm nổi bật của sản 
 
 Ví dụ về vị trí của logo:
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Nen-va-khong-nen-khi-dang-anh-shopee.png)
-
-
+![Nên và không nên khi đăng ảnh Shopee](/images/Nen-va-khong-nen-khi-dang-anh-shopee.png)
 
 Nguồn: Shopee
 
 Hình ảnh sản phẩm chi tiết và cụ thể ở nhiều góc độ khác nhau
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Chup-nhieu-goc-do-san-pham.png)
+![Chụp nhiều góc độ sản phẩm khác nhau](/images/Chup-nhieu-goc-do-san-pham.png)
 
 Nguồn: Shopee
-
-
 
 Thể hiện các thông số kỹ thuật quan trọng của sản phẩm
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Cac-thong-so-san-pham.png)
-
+![Các thông số sản phẩm](/images/Cac-thong-so-san-pham.png)
 Nguồn: Shopee
-
-
 
 Giúp khách hàng hình dung cách sử dụng sản phẩm
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Mo-ta-cong-dung-san-pham.png)
+![Mô tả công dụng sản phẩm](/images/Mo-ta-cong-dung-san-pham.png)
 
 Nguồn: Shopee
 
@@ -125,7 +116,7 @@ Nguồn: Shopee
 
 Thể hiện nhiều phân loại khác nhau của sản phẩm
 
-![Buff chỉ số ảo bán hàng trên Shopee](/images/Cac-loai-san-pham.png)
+![Các loại sản phẩm khác nhau](/images/Cac-loai-san-pham.png)
 
 Nguồn: Shopee
 
