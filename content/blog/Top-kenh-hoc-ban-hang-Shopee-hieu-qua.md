@@ -7,7 +7,6 @@ draft: false
 image: "/images/Hoc-ban-hang-Shopee.jpg"
 ---
 
-
 Học bán hàng trên Shopee ở đâu hiệu quả nhất được rất nhiều người bán hàng mới quan tâm và tìm hiểu. Trong bài viết này, chúng ta sẽ cùng điểm qua danh sách những nơi học bán hàng Shopee chất lượng mà hoàn toàn miễn phí.
 
 {{< youtube e8glmLexUHg>}}
