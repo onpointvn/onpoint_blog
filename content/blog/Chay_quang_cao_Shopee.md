@@ -39,7 +39,7 @@ Shopee có một bài viết rất chi tiết về vấn đề này, bạn có t
 
 Tuy nhiên, để tóm gọn các nội dung chính, bạn cần nắm những thông tin sau:
 
-![Shopee Uni](/images/Quang-cao-shopee-diem-xep-hang.png)
+![Điểm xếp hàng Quảng cáo Shopee](/images/Quang-cao-shopee-diem-xep-hang.png)
 
 Thứ hạng xuất hiện của quảng cáo từ khóa phụ thuộc vào 2 yếu tố, giá thầu và mức độ liên quan của sản phẩm.
 
@@ -49,7 +49,7 @@ Chúng ta hãy cùng đi qua một ví dụ để hiểu rõ hơn khái niệm n
 
 
 
-![Shopee Uni](/images/Quang-cao-shopee-vi-du.png)
+![Ví dụ về điểm hiển thị quảng cáo Shopee](/images/Quang-cao-shopee-vi-du.png)
 
 
 
@@ -79,14 +79,14 @@ Với ứng dụng di động, sẽ có những vị trí hiển thị dành cho
 - 2 vị trí đầu tiên kết quả tìm kiếm.
 - Sau đó, 1 vị trí quảng cáo sau mỗi 3 kết quả tìm kiếm tự nhiên.
 
-![Shopee Uni](/images/Quang-cao-shopee-vi-tri-hien-thi-app.jpg)
+![Vị trí hiển thị quảng cáo Shopee trên ứng dụng](/images/Quang-cao-shopee-vi-tri-hien-thi-app.jpg)
 
 Trên website, vị trí hiển thị dành cho quảng cáo ở các vị trí sau trên trang tìm kiếm
 
 - 5 vị trí đầu tiên
 - 5 vị trí cuối cùng
 
-![Shopee Uni](/images/Quang-cao-shopee-vi-tri-hien-thi-website.jpg)
+![Vị trí hiển thị quảng cáo Shopee trên website](/images/Quang-cao-shopee-vi-tri-hien-thi-website.jpg)
 
 Kết luận chúng ta cần rút ra:
 Để có lượt hiển thị tốt nhất khi chạy quảng cáo, sản phẩm của bạn phải nằm trong top 3-8 hiển thị hoặc ít nhất từ vị trí 15 trở lên cho cả 2 nền tảng là website và ứng dụng di động.
@@ -95,7 +95,7 @@ Kết luận chúng ta cần rút ra:
 
 Để chạy quảng cáo hiệu quả trên Shopee, bạn cần thường xuyên theo dõi hiệu quả hoạt động của các công cụ quảng cáo.
 
-![Shopee Uni](/images/Quang-cao-shopee-phan-tich.jpg)
+![Báo cáo phân tích quảng cáo Shopee](/images/Quang-cao-shopee-phan-tich.jpg)
 
 Các chỉ số báo cáo hiệu quả sẽ giúp bạn thường xuyên đo lường được hiệu quả về mặt chi phí theo cấp độ từng chương trình, từ khóa chạy quảng cáo.
 
