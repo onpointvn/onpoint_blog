@@ -12,7 +12,6 @@ Chạy quảng cáo Shopee là phương pháp có thể nhanh giúp bạn ra đ�
 {{< youtube Ri8wtkpe_i8>}}
 
 
-
 ## Những điều không muốn khi chạy quảng cáo Shopee?
 
 Mặc dù chạy quảng cáo Shopee có thể giúp bạn nhanh chóng ra đơn hàng, bạn cần kiểm soát được mức độ hiệu quả và không ngừng tối ưu.
