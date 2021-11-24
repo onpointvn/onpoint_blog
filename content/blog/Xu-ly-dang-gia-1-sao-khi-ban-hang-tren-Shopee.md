@@ -7,6 +7,7 @@ draft: false
 image: "/images/Xu ly danh gia thap khi ban hang tren Shopee.jpg"
 ---
 
+
 Đánh giá khách hàng rất quan trọng khi bán hàng trên Shopee. Bài viết này hướng dẫn bán hàng Shopee thông qua việc xử lý đánh giá khách hàng 1 sao hiệu quả.
 
 {{< youtube er1JVT_o51w>}}
