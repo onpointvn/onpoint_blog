@@ -4,7 +4,7 @@ date: 2021-11-06
 tags: ["onpoint", "ecommerce","học bán hàng Shopee"]
 author: Khoa Vo
 draft: false
-image: "/images/Hoc-ban-hang-Shopee.jpg"
+image: "/images/Freeship-Xtra-giup ban-tang-doanh-so-ban-hang-tren-Shopee-nhu-the-nao.jpg"
 ---
 
 Freeship Extra là một chương trình đồng tài trợ giữa người bán và Shopee giúp bạn tăng doanh số bán hàng hiệu quả. Bài viết này sẽ đề cập đến những lợi ích mà chương trình Freeship Extra mang lại khi bán hàng trên Shopee
