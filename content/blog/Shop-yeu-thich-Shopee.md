@@ -9,9 +9,7 @@ image: "/images/Shop Yeu Thich Tren Shopee.jpg"
 
 Shop yêu thích là một danh hiệu của người bán khi kinh doanh trên Shopee. Gian hàng được công nhận là Shop Yêu Thích phát triển gian hàng tốt hơn các trường hợp khác.
 
-{{< youtube er1JVT_o51w>}}
-
-![Khách hàng không hài lòng khi bán hàng trên Shopee](/images/Khach-hang-khong-hai-long-khi-ban-hang-tren-Shopee.jpg)
+{{< youtube 0WDPAc6NaZo>}}
 
 ## Shop yêu thích và Shop yêu thích + là gì?
 
