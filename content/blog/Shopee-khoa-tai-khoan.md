@@ -7,6 +7,7 @@ draft: false
 image: "/images/Shopee-khoa-tai-khoan-nguoi-ban.jpg"
 ---
 
+
 Bị Shopee khóa tài khoản người bán là việc không ai muốn. Sau đây là các lý do khiến bạn bị khóa gian hàng trên Shopee.
 
 {{< youtube A0vhf6h4Lyc>}}
